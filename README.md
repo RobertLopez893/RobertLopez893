@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! Soy Roberto López 🤕
 
-<!--
-**RobertLopez893/RobertLopez893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+- 💻 Estudiante de Ingeniería en Sistemas Computacionales.
+- 🔐 Apasionado por la IA y la Ciberseguridad.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas
+- Lenguajes: Java, Python, C, C++, PHP, JavaScript.
+- Otras: Git, Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Actualmente aprendiendo
+- Algoritmos de Machine Learning.
+- Hacking Ético y Pentesting.
+- Algoritmos de Criptografía.
+
+## 📫 Cómo contactarme
+- **Email:** lopez.reyes.roberto.m@gmail.com
+
+---
