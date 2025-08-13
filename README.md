@@ -1,7 +1,7 @@
 # ¡Hola! Soy Roberto López 🤕
 
 ## 🚀 Sobre mí
-- 💻 Estudiante de Ingeniería en Sistemas Computacionales.
+- 💻 Estudiante de Ingeniería en Sistemas Computacionales (ESCOM - IPN).
 - 🔐 Apasionado por la IA y la Ciberseguridad.
 
 ## 🛠️ Tecnologías y herramientas
