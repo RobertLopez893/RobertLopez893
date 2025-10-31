@@ -9,6 +9,8 @@
 - **Librerías:** NumPy, Pandas, Scikit-learn.  
 - **Otras:** Git, Linux, SQL, Wireshark, Nmap.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+
 ## 📚 Actualmente aprendiendo
 - 🤖 Algoritmos de **Machine Learning** y **Deep Learning**.  
 - 🗣️ Técnicas de **Procesamiento de Lenguaje Natural (PLN)**.  
