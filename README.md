@@ -7,7 +7,7 @@
 ## 🛠️ Tecnologías y herramientas
 - **Lenguajes:** Java, Python, C, C++, PHP, JavaScript, Kotlin.  
 - **Librerías:** NumPy, Pandas, Scikit-learn.  
-- **Otras:** Git, Linux, SQL, Wireshark, Nmap.
+- **Otras:** Git, Linux, SQL, Wireshark, Nmap, JupyterNotebook.
 
 ## 📚 Actualmente aprendiendo
 - 🤖 Algoritmos de **Machine Learning** y **Deep Learning**.  
