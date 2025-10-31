@@ -1,7 +1,5 @@
 # ¡Hola! Soy Roberto López 🤕
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Apasionado+por+la+IA+y+la+Ciberseguridad+%F0%9F%94%90;Estudiante+de+Ingenier%C3%ADa+en+Sistemas+Computacionales;Bienvenido+a+mi+perfil+de+GitHub!)](https://git.io/typing-svg)
-
 ## 🚀 Sobre mí
 - 💻 Estudiante de **Ingeniería en Sistemas Computacionales** (ESCOM - IPN).  
 - 🔐 Apasionado por la **Inteligencia Artificial** y la **Ciberseguridad**.
