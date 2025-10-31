@@ -22,4 +22,8 @@
 ![RobertLopez893's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertLopez893&show_icons=true&theme=tokyonight)
 
 ## 📫 Cómo contactarme
-- **Email:** lopez.reyes.roberto.m@gmail.com
+<p align="left">
+  <a href="mailto:lopez.reyes.roberto.m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/josé-roberto-lópez-reyes-b0533b135"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
