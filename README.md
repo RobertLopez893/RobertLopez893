@@ -14,6 +14,7 @@
 - 🗣️ Técnicas de **Procesamiento de Lenguaje Natural (PLN)**.  
 - 🛡️ **Hacking Ético** y **Pentesting**.  
 - 🔐 Algoritmos de **Criptografía**.
+- 🧩 C# para desarrollo multiplataforma y videojuegos.
 
 ## 📫 Cómo contactarme
 - **Email:** lopez.reyes.roberto.m@gmail.com
