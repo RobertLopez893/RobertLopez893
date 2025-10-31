@@ -9,8 +9,6 @@
 - **Librerías:** NumPy, Pandas, Scikit-learn.  
 - **Otras:** Git, Linux, SQL, Wireshark, Nmap.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertLopez893&layout=compact&theme=tokyonight)
-
 ## 📚 Actualmente aprendiendo
 - 🤖 Algoritmos de **Machine Learning** y **Deep Learning**.  
 - 🗣️ Técnicas de **Procesamiento de Lenguaje Natural (PLN)**.  
@@ -20,5 +18,8 @@
 
 ## 📫 Cómo contactarme
 - **Email:** lopez.reyes.roberto.m@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertLopez893&layout=donut&theme=github_dark)
+![RobertLopez893's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertLopez893&show_icons=true&theme=tokyonight)
 
 ---
