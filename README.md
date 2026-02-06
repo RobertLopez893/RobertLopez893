@@ -84,12 +84,6 @@
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertLopez893&layout=compact&theme=gruvbox&hide_border=true" 
-    alt="Top Langs"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RobertLopez893&show_icons=true&theme=gruvbox&hide_border=true" 
-    alt="RobertLopez893's GitHub stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobertLopez893&theme=gruvbox" alt="Estadísticas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobertLopez893&theme=gruvbox&utcOffset=8" alt="Productividad" />
 </p>
