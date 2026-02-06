@@ -28,7 +28,7 @@
 ## 🚀 Sobre Mí
 > 💻 Estudiante de **Ingeniería en Sistemas Computacionales** en **ESCOM - IPN**.
 > 
-> 🚀 Mi pasión es un híbrido entre los retos de la **Inteligencia Artificial**, la protección de datos con **Ciberseguridad** y la creatividad del **Desarrollo de Videojuegos**.
+> 🚀 Mi pasión es un híbrido entre la **Inteligencia Artificial**, la protección de datos con **Ciberseguridad** y la creatividad del **Desarrollo de Videojuegos**.
 
 ---
 
@@ -50,7 +50,8 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
@@ -83,6 +84,12 @@
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobertLopez893&theme=gruvbox" alt="Estadísticas" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobertLopez893&theme=gruvbox&utcOffset=8" alt="Productividad" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertLopez893&layout=compact&theme=gruvbox&hide_border=true" 
+    alt="Top Langs"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RobertLopez893&show_icons=true&theme=gruvbox&hide_border=true" 
+    alt="RobertLopez893's GitHub stats"
+  />
 </p>
