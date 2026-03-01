@@ -78,6 +78,7 @@
 - 🔐 Criptografía avanzada (**Curvas Elípticas** y cifrado moderno).
 - 🎮 **Godot Engine**: Enfocándome en Level Design, Composición y Arte.
 - 🛡️ **Hacking Ético** y Pentesting.
+- 🦀 **Rust** para el desarrollo seguro a bajo nivel.
 
 ---
 
