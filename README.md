@@ -6,8 +6,8 @@
   />
 </p>
 
-<h1 align="center">¡Hola! Soy Roberto López 🤕</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas Computacionales | IA 🤖, Ciberseguridad 🔐 y Game Dev 🎮</h3>
+<h1 align="center">Hi! I'm Roberto López 🤕</h1>
+<h3 align="center">Computer Systems Engineering Student | AI 🤖, Cybersecurity 🔐 & Game Dev 🎮</h3>
 
 <br>
 
@@ -25,16 +25,16 @@
 
 ---
 
-## 🚀 Sobre Mí
-> 💻 Estudiante de **Ingeniería en Sistemas Computacionales** en **ESCOM - IPN**.
+## 🚀 About Me
+> 💻 **Computer Systems Engineering** student at **ESCOM - IPN**.
 > 
-> 🚀 Mi pasión es un híbrido entre la **Inteligencia Artificial**, la protección de datos con **Ciberseguridad** y la creatividad del **Desarrollo de Videojuegos**.
+> 🚀 My passion is a hybrid between **Artificial Intelligence**, data protection with **Cybersecurity**, and the creativity of **Game Development**.
 
 ---
 
-## 🛠️ Mi Stack de Tecnologías
+## 🛠️ My Tech Stack
 
-<h4 align="center">Lenguajes de Programación</h4>
+<h4 align="center">Programming Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-D14836?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
-<h4 align="center">Inteligencia Artificial & Data Science</h4>
+<h4 align="center">Artificial Intelligence & Data Science</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -55,13 +55,13 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-<h4 align="center">Game Development & Arte</h4>
+<h4 align="center">Game Development & Art</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot">
   <img src="https://img.shields.io/badge/Game_Design-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Game Design">
 </p>
 
-<h4 align="center">Ciberseguridad & Herramientas</h4>
+<h4 align="center">Cybersecurity & Tools</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
@@ -72,19 +72,19 @@
 
 ---
 
-## 🌱 Actualmente Aprendiendo
-- 🧠 **Deep Learning** y 🗣️ **Procesamiento de Lenguaje Natural (NLP)**.
-- 👁️ **Visión por Computadora** y 🔊 **Procesamiento de Audio Digital**.
-- 🔐 Criptografía avanzada (**Curvas Elípticas** y cifrado moderno).
-- 🎮 **Godot Engine**: Enfocándome en Level Design, Composición y Arte.
-- 🛡️ **Hacking Ético** y Pentesting.
-- 🦀 **Rust** para el desarrollo seguro a bajo nivel.
+## 🌱 Currently Learning
+- 🧠 **Deep Learning** and 🗣️ **Natural Language Processing (NLP)**.
+- 👁️ **Computer Vision** and 🔊 **Digital Audio Processing**.
+- 🔐 Advanced Cryptography (**Elliptic Curves** and modern encryption).
+- 🎮 **Godot Engine**: Focusing on Level Design, Composition, and Art.
+- 🛡️ **Ethical Hacking** and Pentesting.
+- 🦀 **Rust** for secure low-level development.
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobertLopez893&theme=gruvbox" alt="Estadísticas" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobertLopez893&theme=gruvbox&utcOffset=8" alt="Productividad" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobertLopez893&theme=gruvbox" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobertLopez893&theme=gruvbox&utcOffset=8" alt="Productive Time" />
 </p>
