@@ -1,4 +1,4 @@
-name: Generate Space Shooter Animation
+name: Generate Contribution Animation
 
 on:
   schedule:
@@ -16,13 +16,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate github-contribution-grid-shooter.svg
-        uses: Nathaniel-02/github-contribution-grid-shooter@main
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: RobertLopez893
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FABD2F&color_dots=#282828,#458588,#689D6A,#98971A,#B8BB26
 
       - name: push svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
