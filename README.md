@@ -48,14 +48,10 @@
 
 ---
 
-### 🚀 Space Shooter: Clearing My Contributions
+### 📈 Contribution Telemetry
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobertLopez893/RobertLopez893/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobertLopez893/RobertLopez893/output/github-contribution-grid-snake.svg">
-    <img alt="contribution shooter" src="https://raw.githubusercontent.com/RobertLopez893/RobertLopez893/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobertLopez893&bg_color=282828&color=fabd2f&line=fe8019&point=b8bb26&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
