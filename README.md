@@ -48,7 +48,7 @@
 
 ---
 
-### 🚀 Space Shooter: Clearing My Contributions
+### 🚀 Snake: Clearing My Contributions
 
 <div align="center">
   <picture>
@@ -102,11 +102,13 @@
 ### 🏆 Achievements & Telemetry
 
 <div align="center">
-  <!-- Trofeos estilo RPG en paleta Gruvbox -->
-  <img src="https://github-profile-trophy.vercel.app/?username=RobertLopez893&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="Trophies" />
+  <!-- Racha de contribuciones en paleta Gruvbox -->
+  <img src="https://streak-stats.demolab.com?user=RobertLopez893&theme=gruvbox&hide_border=true&background=282828" alt="GitHub Streak" />
   <br/><br/>
+  <!-- Tus tarjetas de actividad y horario productivo -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobertLopez893&theme=gruvbox" alt="GitHub Profile Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobertLopez893&theme=gruvbox&utcOffset=-6" alt="Productive Time (UTC-6)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobertLopez893&theme=gruvbox" alt="Repos per Language" />
 </div>
 
 ---
