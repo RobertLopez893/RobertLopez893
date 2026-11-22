@@ -48,14 +48,13 @@
 
 ---
 
-### 👾 Pac-Man Eating My Contributions
+### 🚀 Space Shooter: Clearing My Contributions
 
 <div align="center">
-  <!-- Este archivo se genera automáticamente con la GitHub Action del Paso 2 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobertLopez893/RobertLopez893/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobertLopez893/RobertLopez893/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RobertLopez893/RobertLopez893/output/pacman-contribution-graph-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobertLopez893/RobertLopez893/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobertLopez893/RobertLopez893/output/github-contribution-grid-snake.svg">
+    <img alt="contribution shooter" src="https://raw.githubusercontent.com/RobertLopez893/RobertLopez893/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
