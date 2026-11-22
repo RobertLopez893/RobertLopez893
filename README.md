@@ -53,7 +53,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/RobertLopez893">Animoon</a> <code>[Capstone / TT]</code></h4>
+      <h4>🛡️ <a href="https://github.com/RobertLopez893/trabajoTerminal">Animoon</a> <code>[Capstone / TT]</code></h4>
       <p>
         Virtual environment featuring an interactive chat with real-time <b>Online Grooming Detection</b> powered by <b>Natural Language Processing (NLP)</b> to safeguard digital interactions.
       </p>
@@ -64,7 +64,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ <a href="https://github.com/RobertLopez893">AetherOps</a> <code>[MLOps Lab]</code></h4>
+      <h4>⚙️ <a href="https://github.com/RobertLopez893/aether-ops">AetherOps</a> <code>[MLOps Lab]</code></h4>
       <p>
         Modular <b>Machine Learning learning & experimentation lab</b> architected around decoupled <b>microservices</b> for scalable model training, inference, and deployment workflows.
       </p>
@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>🌦️ <a href="https://github.com/RobertLopez893">CDMX Weather Forecaster</a> <code>[Predictive Analytics]</code></h4>
+      <h4>🌦️ <a href="https://github.com/RobertLopez893/regresorClima">CDMX Weather Forecaster</a> <code>[Predictive Analytics]</code></h4>
       <p>
         Historical meteorological data collection pipeline across multiple years in <b>Mexico City (CDMX)</b> paired with an <b>XGBoost Regressor</b> to forecast temperature and climate patterns.
       </p>
