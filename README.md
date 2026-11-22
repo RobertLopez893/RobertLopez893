@@ -48,6 +48,63 @@
 
 ---
 
+### ⚔️ Featured Builds & Main Quests (Projects)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/RobertLopez893">Animoon</a> <code>[Capstone / TT]</code></h4>
+      <p>
+        Virtual environment featuring an interactive chat with real-time <b>Online Grooming Detection</b> powered by <b>Natural Language Processing (NLP)</b> to safeguard digital interactions.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/NLP-282828?style=flat-square&logo=pytorch&logoColor=FB4934" />
+        <img src="https://img.shields.io/badge/Python-282828?style=flat-square&logo=python&logoColor=FABD2F" />
+        <img src="https://img.shields.io/badge/Cybersecurity-282828?style=flat-square&logo=gnubash&logoColor=B8BB26" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ <a href="https://github.com/RobertLopez893">AetherOps</a> <code>[MLOps Lab]</code></h4>
+      <p>
+        Modular <b>Machine Learning learning & experimentation lab</b> architected around decoupled <b>microservices</b> for scalable model training, inference, and deployment workflows.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Microservices-282828?style=flat-square&logo=docker&logoColor=83A598" />
+        <img src="https://img.shields.io/badge/Machine_Learning-282828?style=flat-square&logo=tensorflow&logoColor=FE8019" />
+        <img src="https://img.shields.io/badge/Linux-282828?style=flat-square&logo=linux&logoColor=FABD2F" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🌦️ <a href="https://github.com/RobertLopez893">CDMX Weather Forecaster</a> <code>[Predictive Analytics]</code></h4>
+      <p>
+        Historical meteorological data collection pipeline across multiple years in <b>Mexico City (CDMX)</b> paired with an <b>XGBoost Regressor</b> to forecast temperature and climate patterns.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-282828?style=flat-square&logo=python&logoColor=B8BB26" />
+        <img src="https://img.shields.io/badge/Pandas-282828?style=flat-square&logo=pandas&logoColor=8EC07C" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-282828?style=flat-square&logo=scikit-learn&logoColor=FABD2F" />
+        <img src="https://img.shields.io/badge/Data_Engineering-282828?style=flat-square&logo=jupyter&logoColor=FE8019" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Hackathon Raids & Achievements
+
+<div align="center">
+
+![LiverHack 2025](https://img.shields.io/badge/⚔️_LIVERHACK_2025-Participant_&_Builder-458588?style=for-the-badge&labelColor=282828)
+![LiverHack 2026](https://img.shields.io/badge/🔥_LIVERHACK_2026-Participant_&_Builder-D79921?style=for-the-badge&labelColor=282828)
+![Tiendas 3B 2026](https://img.shields.io/badge/🏪_HACKATHON_TIENDAS_3B_2026-Participant_&_Builder-CC241D?style=for-the-badge&labelColor=282828)
+
+</div>
+
+---
+
 ### 🚀 Snake: Clearing My Contributions
 
 <div align="center">
@@ -99,13 +156,11 @@
 
 ---
 
-### 🏆 Achievements & Telemetry
+### 📊 Telemetry & Stats
 
 <div align="center">
-  <!-- Racha de contribuciones en paleta Gruvbox -->
   <img src="https://streak-stats.demolab.com?user=RobertLopez893&theme=gruvbox&hide_border=true&background=282828" alt="GitHub Streak" />
   <br/><br/>
-  <!-- Tus tarjetas de actividad y horario productivo -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobertLopez893&theme=gruvbox" alt="GitHub Profile Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobertLopez893&theme=gruvbox&utcOffset=-6" alt="Productive Time (UTC-6)" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobertLopez893&theme=gruvbox" alt="Repos per Language" />
