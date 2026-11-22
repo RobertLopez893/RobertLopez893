@@ -97,7 +97,7 @@
 
 <div align="center">
 
-![LiverHack 2025](https://img.shields.io/badge/⚔️_LIVERHACK_2025-Participant_&_Builder-458588?style=for-the-badge&labelColor=282828)
+![LiverHack 2025](https://img.shields.io/badge/🥈_LIVERHACK_2025-2nd_Place_Winner-458588?style=for-the-badge&labelColor=282828)
 ![LiverHack 2026](https://img.shields.io/badge/🔥_LIVERHACK_2026-Participant_&_Builder-D79921?style=for-the-badge&labelColor=282828)
 ![Tiendas 3B 2026](https://img.shields.io/badge/🏪_HACKATHON_TIENDAS_3B_2026-Participant_&_Builder-CC241D?style=for-the-badge&labelColor=282828)
 
