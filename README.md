@@ -1,87 +1,122 @@
+<!-- HEADER BANNER ANIMADO -->
 <div align="center">
-  <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgzeDFwNGlqNmczaGs0ZXVlNjIyeHFzdDluc29kOXUwdHJsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xJEqVd9MQ1enBe/giphy.gif" 
-    width="320" 
-    alt="Cybersecurity Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,50:d79921,100:cc241d&height=180&section=header&text=PLAYER%201:%20ROBERTO%20L%C3%93PEZ&fontSize=34&fontColor=fbf1c7&fontAlignY=38&desc=Press%20Start%20to%20Explore%20%7C%20ESCOM%20-%20IPN&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-  <h1>Hi there! I'm Roberto López 👋</h1>
-  <p><strong>Computer Systems Engineering Student @ ESCOM - IPN</strong><br>
-  Focused on <strong>Artificial Intelligence 🤖</strong> & <strong>Cybersecurity 🔐</strong></p>
+  <!-- TYPING ANIMATION RETRO -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FABD2F&center=true&vCenter=true&width=650&lines=Computer+Systems+Engineering+%40+ESCOM+-+IPN;AI+%26+Machine+Learning+Developer+%F0%9F%A4%96;Applied+Cryptography+%26+Cybersecurity+%F0%9F%94%90;8-Bit+Chiptune+%26+Game+Dev+Enthusiast+%F0%9F%8E%AE" alt="Typing SVG" />
+  </a>
 
+  <br/>
+
+  <!-- SOCIAL BADGES ESTILO ARCADE -->
   <p>
     <a href="mailto:lopez.reyes.roberto.m@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/EMAIL-CC241D?style=for-the-badge&logo=gmail&logoColor=FBF1C7" alt="Email"/>
     </a>
     <a href="https://www.linkedin.com/in/jos%C3%A9-roberto-l%C3%B3pez-reyes-b0533b135" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LINKEDIN-458588?style=for-the-badge&logo=linkedin&logoColor=FBF1C7" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/RobertLopez893">
+      <img src="https://img.shields.io/github/followers/RobertLopez893?label=PLAYERS&style=for-the-badge&color=B8BB26&labelColor=282828" alt="Followers"/>
     </a>
   </p>
 </div>
 
 ---
 
-### 🚀 About Me
+### 🕹️ [CHARACTER SHEET] — About Me
 
-> 💻 **Computer Systems Engineering** student at **ESCOM - IPN** (Mexico City).  
-> 🤖 Building practical software bridging **Machine Learning**, **NLP**, and **Applied Cryptography**.  
-> 🎮 Passionate about **Game Development**, interactive storytelling, and retro game audio design.
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <p>
+        💻 <b>Class:</b> Computer Systems Engineer @ <b>ESCOM - IPN</b> (CDMX)<br/>
+        🤖 <b>Main Quest:</b> Bridging <b>Machine Learning</b>, <b>NLP</b> & <b>Applied Cryptography</b><br/>
+        🎵 <b>Side Quest:</b> Retro Game Dev, worldbuilding & 8-bit/16-bit chiptunes<br/>
+        🇯🇵 <b>Skill Tree:</b> Actively studying Japanese (日本語)
+      </p>
+      <blockquote>
+        <i>"SMAAAASH!! Turning coffee, neural networks, and cipher suites into playable code."</i>
+      </blockquote>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgzeDFwNGlqNmczaGs0ZXVlNjIyeHFzdDluc29kOXUwdHJsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xJEqVd9MQ1enBe/giphy.gif" width="240" style="border-radius: 10px;" alt="Cybersecurity Retro" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 👾 Pac-Man Eating My Contributions
+
+<div align="center">
+  <!-- Este archivo se genera automáticamente con la GitHub Action del Paso 2 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobertLopez893/RobertLopez893/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobertLopez893/RobertLopez893/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RobertLopez893/RobertLopez893/output/pacman-contribution-graph-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+### 🎒 Inventory & Tech Stack
 
 <div align="center">
 
-#### Languages & Core
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+**⚔️ Languages & Core**  
+![Python](https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=FABD2F)
+![Java](https://img.shields.io/badge/Java-282828?style=for-the-badge&logo=openjdk&logoColor=FE8019)
+![C](https://img.shields.io/badge/C-282828?style=for-the-badge&logo=c&logoColor=83A598)
+![C++](https://img.shields.io/badge/C%2B%2B-282828?style=for-the-badge&logo=cplusplus&logoColor=458588)
+![Kotlin](https://img.shields.io/badge/Kotlin-282828?style=for-the-badge&logo=kotlin&logoColor=D3869B)
 
-#### AI, Data & Frameworks
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+**🧠 AI, Data & Frameworks**  
+![PyTorch](https://img.shields.io/badge/PyTorch-282828?style=for-the-badge&logo=pytorch&logoColor=FB4934)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-282828?style=for-the-badge&logo=tensorflow&logoColor=FE8019)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-282828?style=for-the-badge&logo=scikit-learn&logoColor=FABD2F)
+![Pandas](https://img.shields.io/badge/Pandas-282828?style=for-the-badge&logo=pandas&logoColor=8EC07C)
+![NumPy](https://img.shields.io/badge/NumPy-282828?style=for-the-badge&logo=numpy&logoColor=83A598)
+![Jupyter](https://img.shields.io/badge/Jupyter-282828?style=for-the-badge&logo=jupyter&logoColor=FE8019)
 
-#### Security, Systems & Tools
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=white" alt="Nmap">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+**🛡️ Security, Systems & Tools**  
+![Linux](https://img.shields.io/badge/Linux-282828?style=for-the-badge&logo=linux&logoColor=FABD2F)
+![Git](https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git&logoColor=FB4934)
+![Docker](https://img.shields.io/badge/Docker-282828?style=for-the-badge&logo=docker&logoColor=83A598)
+![Wireshark](https://img.shields.io/badge/Wireshark-282828?style=for-the-badge&logo=wireshark&logoColor=458588)
+![Nmap](https://img.shields.io/badge/Nmap-282828?style=for-the-badge&logo=gnubash&logoColor=B8BB26)
+![MySQL](https://img.shields.io/badge/MySQL-282828?style=for-the-badge&logo=mysql&logoColor=83A598)
 
 </div>
 
 ---
 
-### 🧠 Focus Areas & Ongoing Studies
+### 🗺️ Active Quests & Skill Tree
 
-| 📚 Core Specialization | 🌱 Currently Exploring |
+| ⚔️ Main Specialization (Equipped) | 🔮 Currently Exploring (Unlocking...) |
 | :--- | :--- |
-| • Deep Learning & Transformer Architectures<br>• Natural Language Processing (NLP)<br>• Cryptography (ECC, Modern Cipher Suites) | • Computer Vision (CV)<br>• Digital Audio Signal Processing<br>• Penetration Testing & CTFs |
+| • **Deep Learning** & Transformer Architectures<br>• **Natural Language Processing** (NLP)<br>• **Cryptography** (ECC, Modern Cipher Suites) | • **Computer Vision** (CV)<br>• **Digital Audio Signal Processing** (DSP)<br>• **Penetration Testing** & CTFs |
 
 ---
 
-### 🎮 Beyond Code
-
-When I'm not coding or training models, you'll likely find me:
-
-* 🕹️ **Gaming & Analysis:** Long-time completionist fan of classic franchises (*Mario, Metroid, Fire Emblem, Star Fox, EarthBound, Yakuza*).
-* ✍️ **Creative Design:** Writing game lore, designing gameplay mechanics, and worldbuilding.
-* 🎵 **Game Audio:** Composing 8-bit/16-bit chiptunes and analyzing leitmotifs in video game soundtracks.
-* 🇯🇵 **Languages:** Actively studying Japanese (日本語).
-
----
-
-### 📊 GitHub Activity
+### 🏆 Achievements & Telemetry
 
 <div align="center">
+  <!-- Trofeos estilo RPG en paleta Gruvbox -->
+  <img src="https://github-profile-trophy.vercel.app/?username=RobertLopez893&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="Trophies" />
+  <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobertLopez893&theme=gruvbox" alt="GitHub Profile Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobertLopez893&theme=gruvbox&utcOffset=-6" alt="Productive Time (UTC-6)" />
 </div>
+
+---
+
+### 🎮 Save Point & Lore (Beyond Code)
+
+<details>
+  <summary><b>▶️ Click to inspect Player Logs & Classic Franchises...</b></summary>
+  <br/>
+  <ul>
+    <li>🕹️ <b>Completionist Runs:</b> <i>Super Mario, Metroid, Fire Emblem, Star Fox, EarthBound, Yakuza</i>.</li>
+    <li>✍️ <b>World
