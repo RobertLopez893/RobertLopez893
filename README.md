@@ -117,5 +117,12 @@
   <summary><b>▶️ Click to inspect Player Logs & Classic Franchises...</b></summary>
   <br/>
   <ul>
-    <li>🕹️ <b>Completionist Runs:</b> <i>Super Mario, Metroid, Fire Emblem, Star Fox, EarthBound, Yakuza</i>.</li>
-    <li>✍️ <b>World
+    <li>🕹️ <b>Completionist Runs:</b> <i>Super Mario, Metroid, Fire Emblem, Star Fox, EarthBound, Yakuza, Castlevania</i>.</li>
+    <li>✍️ <b>Worldbuilding:</b> Writing game lore, designing gameplay loops, and interactive mechanics.</li>
+    <li>🎹 <b>Sound Test:</b> Composing 8-bit/16-bit chiptunes & analyzing video game leitmotifs.</li>
+  </ul>
+</details>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc241d,50:d79921,100:282828&height=100&section=footer" width="100%" />
+</div>
